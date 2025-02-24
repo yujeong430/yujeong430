@@ -10,10 +10,6 @@
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat&logo=react&logoColor=black" />
 <br/>
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express-%23000000.svg?&style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat&logo=postgresql&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat&logo=github&logoColor=white" />
 
@@ -22,6 +18,9 @@
 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express-%23000000.svg?&style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat&logo=postgresql&logoColor=white" />
 
 <br/> <br/>
 </div>
