@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-FF4438.svg?&style=flat&logo=redis&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat&logo=github&logoColor=white" />
